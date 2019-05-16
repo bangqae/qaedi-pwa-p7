@@ -1,0 +1,13 @@
+latihan:
+1.  tambahkan tombol fetch data, dan fungsinya //lihat fungsi fetchText
+2.  berdasarkan fungsi json,
+    gunakan sumber json dari jsonplaceholder
+
+    tampilkan pada halaman aplikasi ul atau div
+    data user: name & email (10 data)
+    clue: data.forEach atau data.maps atau ... 
+
+    referensi
+    github.com/typicode/jsonplaceholder
+
+    atau bebas
